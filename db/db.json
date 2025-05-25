@@ -59,16 +59,10 @@
   ],
   "favoritos": [
     {
-      "titulo": "Conclave",
-      "clasificação": "Médio",
-      "foto": "assets/Imagens/conclave.png",
-      "id": 3
-    },
-    {
       "titulo": "Ainda Estou Aqui",
       "clasificação": "Horrivel",
       "foto": "/assets/Imagens/aindaesotuaqui.jpg",
-      "id": 4
+      "id": 1
     }
   ]
 }

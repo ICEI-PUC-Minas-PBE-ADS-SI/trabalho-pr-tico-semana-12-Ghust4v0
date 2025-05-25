@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
     <meta charset="UTF-8">
@@ -7,7 +7,7 @@
     <script src="assets/js/app2.js"></script>
     <script src="assets/js/app.js"></script>
     <link rel="stylesheet" href="assets/css/style.css">
-    <title>Document</title>
+    <title>Favoritos</title>
 </head>
 
 <body>
@@ -89,7 +89,7 @@
                             <td><img src="${filme.foto}" width="100"></td>
                             <td>${filme.titulo}</td>
                             <td>${filme.clasificação}</td>
-                            <td><button onclick="deleta(${filme.id})">Del</button> <button onclick="put(${filme.id})">Put</button></td>
+                            <td><button onclick="deleta(${filme.id})">Excluir</button> <button onclick="put(${filme.id})">Alterar</button></td>
                         </tr>`;
                 });
             })
