@@ -21,3 +21,7 @@ function Main(){
 function login(){
   location.href = "loginn.html"
 }
+
+function favoritos(){
+  location.href = "favorito.html"
+}
